@@ -46,3 +46,6 @@ An ecommerce website that shows a list of items with options to edit, delete or 
    ```bash
    npm run dev
    ```
+
+![image](https://github.com/user-attachments/assets/738e7b91-2665-4f0a-94a1-dc5ab65bed83)
+
